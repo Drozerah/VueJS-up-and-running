@@ -1,2 +1,2 @@
-"# VueJS-up-and-running"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Drozerah/VueJS-up-and-running.git git push -u origin master
-"# VueJS-up-and-running" 
+##### Vue.js sandbox based on the Callum Macrae's book "[Vue.js Up & Running](http://shop.oreilly.com/product/0636920103455.do)"
+
